@@ -56,6 +56,8 @@ The data set contains the following diseases as labeled:
 - Use of augmentation techniques like rotation, flipping, zoom etc. helps in making the model more robust.
 
 ## Acknowledgements
+
+References followed:
 - https://www.cancer.org/cancer/types/melanoma-skin-cancer/about/what-is-melanoma.html
 - https://www.isic-archive.com/
 - https://www.sciencedirect.com/science/article/pii/S1361841521003509
